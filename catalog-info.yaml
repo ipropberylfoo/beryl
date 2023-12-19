@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: beryldoc
+  annotations:
+    github.com/project-slug: ipropberylfoo/beryldoc
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
